@@ -1,0 +1,40 @@
+table{
+background: radial-gradient(gainsboro, gray);
+margin-top: 10%;
+margin-left: 40%;
+padding: 5px;
+box-shadow: 15px, 15px, 15px, 15px  black;
+border: 3px solid bisque;
+border-radius: 5%;
+}
+#slide{
+    background-color: gainsboro;
+    border: 2px solid pink;
+    border-radius: 3px;
+}
+.butn{
+    background:linear-gradient(gainsboro,gray);
+    color: black;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+.butt{
+    background:linear-gradient(cornsilk, blanchedalmond );
+    color: black;
+    padding: 15px;
+    border: 1px solid black;  
+
+}
+.butop{
+    background:linear-gradient(pink,lightpink  );
+    color: black;
+    padding: 15px;
+    border: 1px solid black;  
+}
+.butl{
+    background:linear-gradient(pink,lightpink  );
+    color: black;
+    padding: 15px;
+    border: 1px solid black;  
+}
